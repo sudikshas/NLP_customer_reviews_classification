@@ -302,19 +302,6 @@ A system at 96.3% accuracy operating on 1 million reviews per month would correc
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Training-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
----
-
-## 📁 Repository Structure
-
-```
-├── Sentiment_Classification_Models_Part_1.ipynb   # Baseline models: LR, RF, LSTM + Glassdoor validation
-├── Sentiment_Classification_Models_Part_2.ipynb   # Deep learning: BiLSTM, CNN, ablations, embedding viz
-├── W207_Final_Project_Slides.pdf                  # Project presentation deck
-├── data/
-│   ├── train.csv                                  # Primary training data (100K reviews)
-│   └── Final_Company_Reviews.csv                  # Glassdoor external validation set
-└── README.md
-```
 
 ---
 
